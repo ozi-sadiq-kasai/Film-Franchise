@@ -1,2 +1,2 @@
-# Film-Franchise
+# Movie Franchise
 Earnings of movie franchise 
